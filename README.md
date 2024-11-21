@@ -1,12 +1,12 @@
-**DEATH-RAPHAEL-BUG MULTI DEVICE WHATSAPP BOT**
+**CYTRA-MD MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
-    <img alt=Support height="400" src="https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg"
+    <img alt=Support height="400" src="https://telegra.ph/file/6238d670a279057951ba5.jpg"
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
-<h1 align="center"> DEATH-RAPHAEL-BUG </h1>
+<h1 align="center"> CYTRA-MD </h1>
 </h1>
 <p align="center"> Here's the channel support 
 <p align="center"> 
@@ -14,15 +14,8 @@
     <img alt="whatsapp channel" src="https://img.shields.io/badge/ Whatsapp Support channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
  </a>   
 
- 
-### **ALERTE ⚠️**
-please add the cred.json file to the session folder
 
- ### ℹ️ **ABOUT DEATH-RAPHAEL-BUG**
- Introducing Death-Raphael-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
-
-
-`Ｆ•Ｅ•Ａ•Ｔ•Ｕ•Ｒ•Ｅ•Ｓ`
+`Ｆ.•Ｅ.•Ａ.•Ｔ.•Ｕ.•Ｒ.•Ｅ.•Ｓ`
 
 
 ***◉ Multi-Device Support  
@@ -40,7 +33,7 @@ please add the cred.json file to the session folder
           
 2.  **Fork My Repository**
           <br>
-<a href='https://github.com/Limule3650/Death-Raphael-bug/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
+<a href='https://github.com/CytraK/Death-Raphael-bug/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=Blue'/></a>
       <br> 
      
  Get pairing code.
@@ -103,44 +96,18 @@ please add the cred.json file to the session folder
 # Termux Deployment
 ```
 termux-setup-storage
-```
-```
 apt update
-```
-```
 apt upgrade
-```
-```
 pkg update && pkg upgrade
-```
-```
 pkg install bash
-```
-```
 pkg install libwebp
-```
-```
 pkg install git -y
-```
-```
 pkg install nodejs -y
-```
-```
 pkg install ffmpeg -y 
-```
-```
 pkg install wget
-```
-```
 pkg install yarn
-```
-```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
-```
-```
+git clone https://github.com/CytraK/Death-Raphael-bug
 cd Death-Raphael-bug
-```
-```
 yarn install
 ```
 ```
@@ -169,16 +136,12 @@ npm i -g forever && forever index.js && forever save && forever logs
 ```
 ```
 > cd Death-Raphael-bug
-```
-```
 > yarn install
-```
-```
 > npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/fucking.gif" width ="80"></h1> 
 
 ##
 - ***Star ⭐ My Repo If You Like  DEATH RAPHAEL-BUG.***
