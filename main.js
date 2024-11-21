@@ -1,11 +1,11 @@
-//base by Limule Solitarus 
+//base by Cytra_k9
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +237698581946
-//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
+//YouTube: @Cytra_k9
+//Instagram: Cytra_k9
+//Telegram: t.me/Cytrak
+//GitHub: @CytraK
+//WhatsApp: +254715155196
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Cytra_k9
 
 require('./settings')
 const pino = require('pino')
@@ -172,7 +172,7 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         const { connection, lastDisconnect } = s
         if (connection == "open") {
         	console.log(chalk.magenta(` `))
-            console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
+            console.log(chalk.yellow(`🇰🇪Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ DEATH RAPHAEL-BUG ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
