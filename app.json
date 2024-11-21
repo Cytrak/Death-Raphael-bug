@@ -1,7 +1,7 @@
 {
-  "name": "DEATH-RAPHAEL-BUG",
+  "name": "Cytra-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Limule3650/Death-Raphael-bug",
+  "repository": "https://github.com/CytraK/Death-Raphael-bug",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
